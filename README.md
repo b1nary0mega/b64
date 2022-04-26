@@ -1,4 +1,4 @@
 # b64
 powershell files to convert from byte to base64 and back
 
-_Source: https://stackoverflow.com/users/1936966/filimonic | https://stackoverflow.com/questions/66462602/base64-encode-large-zip-file-using-powershell_
+_Source: https://stackoverflow.com/a/66463142
